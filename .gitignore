@@ -1,0 +1,9 @@
+venv*/
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+study_lock_*.json
+*.log
+.DS_Store
