@@ -1,8 +1,5 @@
 #!/usr/bin/env python3
 """
-Study Lock — Modern Dark + Glass UI (PyQt5)
-ENHANCED VERSION v2.0 - System Tray, Mini Timer, Custom Cycles, Charts, Sounds
-
 Features: Pomodoro, hosts blocking, process killer, override, settings, notifications, 
           persistence, system tray, mini floating timer, custom cycle durations, 
           break skip, session charts, completion sounds.
